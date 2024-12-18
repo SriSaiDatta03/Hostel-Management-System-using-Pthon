@@ -19,6 +19,7 @@ File Input Support: Reads student data from a specified file, making it easy to 
 
 ---
 Getting Started 🚀
+
 Prerequisites:
 
 Python 3.x installed on your machine.

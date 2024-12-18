@@ -1,6 +1,6 @@
 Hostel Management System 📚🏨
-
 ---
+
 Overview:
 -
 The Hostel Management System is a Python-based application designed to efficiently allocate hostel rooms to students based on their CGPA (Cumulative Grade Point Average). This system prioritizes students with higher CGPAs for AC rooms and allocates them to the next available room type if their preferred choice is filled. If all rooms are occupied, students will be listed as unallocated.
